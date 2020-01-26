@@ -1,0 +1,2 @@
+streamlink --player=vlc example.com/whatever
+
