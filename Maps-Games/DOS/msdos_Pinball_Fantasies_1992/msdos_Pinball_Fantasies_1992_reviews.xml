@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="msdos_Pinball_Fantasies_1992">
+  <review>
+    <reviewbody>perfect windows10 64bits</reviewbody>
+    <reviewtitle>perfect</reviewtitle>
+    <reviewer>mikange29</reviewer>
+    <reviewdate>2016-02-13 00:31:44</reviewdate>
+    <createdate>2016-02-13 00:31:44</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Perfect on windows 10 :)</reviewbody>
+    <reviewtitle>Pinball Fantasy's</reviewtitle>
+    <reviewer>d3athang3l</reviewer>
+    <reviewer_itemname>@d3athang3l</reviewer_itemname>
+    <reviewdate>2019-03-01 13:59:19</reviewdate>
+    <createdate>2019-03-01 13:59:19</createdate>
+    <stars>4</stars>
+  </review>
+  <review>
+    <reviewbody>great memories... great game:-)</reviewbody>
+    <reviewtitle>Great game</reviewtitle>
+    <reviewer>hatdio</reviewer>
+    <reviewer_itemname>@hatdio</reviewer_itemname>
+    <reviewdate>2019-11-10 12:16:14</reviewdate>
+    <createdate>2019-11-10 12:16:14</createdate>
+    <stars>5</stars>
+  </review>
+  <info>
+    <num_reviews>3</num_reviews>
+    <avg_rating>4.67</avg_rating>
+  </info>
+</reviews>

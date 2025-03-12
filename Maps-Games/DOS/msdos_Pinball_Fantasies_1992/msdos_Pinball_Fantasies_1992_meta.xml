@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>msdos_Pinball_Fantasies_1992</identifier>
+  <collection>softwarelibrary_msdos_games</collection>
+  <collection>softwarelibrary_msdos</collection>
+  <collection>softwarelibrary</collection>
+  <description>   21st Century Entertainment Ltd.
+   Developed by
+   Digital Illusions CE AB
+   Released
+   1994
+   Also For
+   Amiga, Amiga CD32, Game Boy, iPhone, Jaguar, MeeGo, PlayStation,
+   PlayStation 3, PSP, SNES | Combined View
+   Genre
+   Action
+   Perspective
+   Top-down
+   Gameplay
+   Pinball
+   85
+   Critic Score
+   100 point score based on reviews from various critics.&lt;br /&gt;&lt;div class="mobygames_description"&gt;&lt;p&gt;&lt;b&gt;Also For&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_also_for%3A(Amiga,%20Amiga%20CD32,%20Game%20Boy,%20iPhone,%20Jaguar,%20MeeGo,%20PlayStation,%20PlayStation%203,%20PSP,%20PS%20Vita,%20SNES)" rel="nofollow"&gt;Amiga, Amiga CD32, Game Boy, iPhone, Jaguar, MeeGo, PlayStation, PlayStation 3, PSP, PS Vita, SNES&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Developed by&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_developed_by%3A(Digital%20Illusions%20HB)" rel="nofollow"&gt;Digital Illusions HB&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Published by&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_published_by%3A(21st%20Century%20Entertainment%20Ltd.)" rel="nofollow"&gt;21st Century Entertainment Ltd.&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Released&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_released%3A(1994)" rel="nofollow"&gt;1994&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Genre&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_genre%3A(Action)" rel="nofollow"&gt;Action&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Gameplay&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_gameplay%3A(Pinball)" rel="nofollow"&gt;Pinball&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Perspective&lt;/b&gt;&lt;br /&gt;&lt;a href="https://archive.org/search.php?query=mobygames_perspective%3A(Top-down)" rel="nofollow"&gt;Top-down&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/p&gt;&lt;p&gt;After the success of &lt;a href="https://www.mobygames.com/game/pinball-dreams" rel="nofollow"&gt;Pinball Dreams&lt;/a&gt; on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams. &lt;/p&gt;&lt;p&gt;From Mobygames.com. &lt;a href="http://www.mobygames.com/game/dos/pinball-fantasies" rel="nofollow"&gt;Original Entry&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="end_mobygames_description"&gt;&lt;/div&gt;&lt;br /&gt;&lt;div&gt;&lt;/div&gt;</description>
+  <emulator>dosbox</emulator>
+  <emulator_ext>zip</emulator_ext>
+  <emulator_start>pinbllf/21STCENT/FANTASY/PF.EXE</emulator_start>
+  <mediatype>software</mediatype>
+  <scanner>Internet Archive Python library 0.7.5</scanner>
+  <title>Pinball Fantasies</title>
+  <year>1992</year>
+  <publicdate>2014-12-26 23:52:08</publicdate>
+  <uploader>softwarelibrary@textfiles.com</uploader>
+  <addeddate>2014-12-26 23:52:08</addeddate>
+  <noarchivetorrent>true</noarchivetorrent>
+  <curation>[curator]jscott@archive.org[/curator][date]20150128015433[/date]</curation>
+  <mobygames>http://www.mobygames.com/game/dos/pinball-fantasies</mobygames>
+  <backup_location>ia905908_28</backup_location>
+  <date>1992</date>
+  <mobygames_published_by>21st Century Entertainment Ltd.</mobygames_published_by>
+  <mobygames_genre>Action</mobygames_genre>
+  <mobygames_perspective>Top-down</mobygames_perspective>
+  <mobygames_developed_by>Digital Illusions HB</mobygames_developed_by>
+  <mobygames_released>1994</mobygames_released>
+  <mobygames_also_for>Amiga, Amiga CD32, Game Boy, iPhone, Jaguar, MeeGo, PlayStation, PlayStation 3, PSP, PS Vita, SNES</mobygames_also_for>
+  <mobygames_gameplay>Pinball</mobygames_gameplay>
+</metadata>
