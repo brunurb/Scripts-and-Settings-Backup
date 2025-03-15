@@ -1,0 +1,5 @@
+ convert /home/bbb/Desktop/BBBBSS/$f -gravity NorthWest -pointsize 12 -font "Liberation-Mono" -fill white -undercolor "#00000080" -annotate +20+20 "'"$timestamp"'" /home/bbb/Desktop/BBBBSS/$f
+
+while sleep 30; do timestamp=$(date +'%Y-%m-%d %H:%M:%S'); scrot -q 1 '%Y-%m-%d-%H:%M:%S.png' -e '
+
+https://globe.adsbexchange.com/
