@@ -1,0 +1,1 @@
+Prettymaps colors and styles
